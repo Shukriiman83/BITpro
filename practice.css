@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+nav{
+  height: 80px;
+  width: 100%;
+  margin: 25px;
+
+}
+nav ul a:hover{
+  color: rgb(243, 113, 113);
+  border-bottom: 1px solid;
+  color: rgb(243, 113, 113);
+}
+
+nav ul{
+  float: right;
+  margin-right: 150px;
+  font-family: arial;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+  
+
+}
+nav ul li a{
+  font-size: 30;
+  color: black;
+  font-family: arial;
+  padding: 15px;
+}
+.logo{
+margin-left: 35px;
+margin-top: 15px;
+}
